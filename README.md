@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=ChoiGood)
+
 <div align="center">
   
   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wldnjs3794"/>
