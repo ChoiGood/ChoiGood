@@ -1,4 +1,6 @@
-### Hi there 👋
+### Ji Won Choi  
+## 경북대학교 수학과 졸업  
+## 삼성 청년 SW 아카데미 (SSAFY) 11기 
 
 
 
