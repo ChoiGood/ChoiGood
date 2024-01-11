@@ -16,6 +16,8 @@
   🔎 삼성 청년 SW 아카데미 (SSAFY) 11기    
 
   <br>
+
+### 🛠 SKILL 🛠
  
 </div>
 
@@ -25,6 +27,6 @@
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoiGood&show_icons=true&theme=radical)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiGood)](https://github.com/anuraghazra/github-readme-stats)
   
-  ### 🛠 SKILL 🛠
+  
  
 </div>
