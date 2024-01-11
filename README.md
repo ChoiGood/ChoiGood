@@ -15,9 +15,11 @@
   
   🔎 삼성 청년 SW 아카데미 (SSAFY) 11기    
 
+  ### 🛠 SKILL 🛠
+
   <br>
 
-### 🛠 SKILL 🛠
+
  
 </div>
 
