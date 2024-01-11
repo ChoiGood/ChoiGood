@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=ChoiGood%20render)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoiGood&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiGood)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
